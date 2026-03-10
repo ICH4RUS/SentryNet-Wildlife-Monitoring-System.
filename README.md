@@ -139,4 +139,15 @@ Your Kaggle model files are extracted into a subfolder. Move them out of the `ar
 Ensure Mosquitto is installed and the Windows Service is actively running. The script attempts to connect to `127.0.0.1` on port `1883`.
 
 
+---
+
+## Team
+
+This project was submitted by:
+
+- **BEN GEORGE**
+- **CHARUKESH PRASANTH** 
+- **JASKARAN SINGH**
+- **KARTHIK E.M.**
+
 ```
